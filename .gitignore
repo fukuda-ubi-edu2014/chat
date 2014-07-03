@@ -1,0 +1,4 @@
+depend.inc
+*.o
+libtrace.a
+server/chatserv
